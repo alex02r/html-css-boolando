@@ -30,6 +30,7 @@ header{
     height: 60px;
     position: fixed;
     width: 100%;
+    z-index: 1;
 }
 .links a{
     list-style: none;
