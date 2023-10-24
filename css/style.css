@@ -1,5 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800&display=swap');
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+/* COMMON */
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.row{
+    width: 100%;
+    display: flex;
+}
+.col-100{
+    width: 100%;
+}
+/* HEADER */
+header{
+    background-color: rgb(255, 115, 0);
+    height: 60px;
 }
