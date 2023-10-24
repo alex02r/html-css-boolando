@@ -29,6 +29,8 @@
 header{
     background-color: rgb(255, 115, 0);
     height: 60px;
+    position: fixed;
+    width: 100%;
 }
 /* MAIN */
 main{
