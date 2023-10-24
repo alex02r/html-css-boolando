@@ -33,6 +33,30 @@ header{
     position: fixed;
     width: 100%;
 }
+.links a{
+    list-style: none;
+    color: #fff;
+    text-decoration: none;
+    padding-right: 5px;
+    font-weight: 600;
+}
+.add-on i{
+    color: #fff;
+    font-size: 14px;
+    padding: 0 5px;
+}
+.logo{
+    width: 100px;
+}
+.logo img{
+    width: 100%;
+}
+.content-header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
 /* MAIN */
 main{
     padding-top: 100px;
