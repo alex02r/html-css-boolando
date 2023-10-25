@@ -7,7 +7,8 @@
 }
 /* COMMON */
 .container{
-    width: 1200px;
+    width: 100%;
+    max-width: 1200px;
     margin: 0 auto;
 }
 .row{
@@ -103,7 +104,7 @@ main{
 .product:hover .hidden{
     display: block;
 }
-.product:hover .heart{
+.product .heart:hover {
     color: red;
 }
 /* text of product */
